@@ -58,6 +58,7 @@ Dad: “Okay kid, gotta bounce. See you soon”
 And now, time to spend 10 minutes crafting a message for your mom.
 Will she even see it? And how will she respond when she does?
 Internally, you cringe a bit as you type a generic apology. But it fits your purposes well.
+<< set mom_angry to 1 >>
 [[ answer: |homework minigame 2]] ]]
 ===
 title: She does not understand where I come from…
@@ -68,6 +69,7 @@ position: 769,-480
 MC: “Does she even listen to what I have to say? Every time she talks, it’s about her hopes, her dreams. Nothing about me and how I feel about this.”
 Dad: “You have to try and understand. She was being angry. She didn’t know what she was saying. If you offer peace first, she’ll take it.”
 MC: “So I have to apologise for what she says when she’s angry?”
+<< set mom_angry to 1 >>
 [[ answer: |homework minigame 2]] ]]
 ===
 title: I hope I can do well.
@@ -82,6 +84,7 @@ You smile a little as you lock your phone.
 Yet, you wonder why dad didn’t show you support like this yesterday.
 Or 3 months ago when your last exam got you ripped apart by mom.
 Was he really too busy for you?
+<< set mom_happy to 1 >>
 [[ answer: |homework minigame 2]] ]]
 ===
 title: Not really...
@@ -96,6 +99,7 @@ You smile a little as you lock your phone.
 Yet, you wonder why dad didn’t do this yesterday.
 Or 3 months ago when your last exam got you ripped apart by mom.
 Was he really too busy for you?
+<< set mom_angry to 1 >>
 
 [[ answer: |homework minigame 2]] ]]
 ===
@@ -110,6 +114,7 @@ Dad: “that’s good, that’s good.”
 Dad: “All the best kiddo! Do us proud :)”
 You lock your phone.
 Closing your eyes, you summon your mental strength to keep going.
+<< set mom_happy to 1 >>
 [[ answer: |homework minigame 2]] ]]
 ===
 title: Sighs
@@ -125,6 +130,7 @@ You don’t even wanna continue this.
 You lock your phone, and throw it aside.
 Why can’t your parents ever see how tough it is to be a student?
 Did they forget?
+<< set mom_happy to 1 >>
 
 [[ answer: |homework minigame 2]] ]]
 ===
